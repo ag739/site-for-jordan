@@ -20,7 +20,7 @@ button:hover {
 
 /* http://stackoverflow.com/questions/21006170/bootstrap-full-height-background-cover-image */
 #cover{
-   background: url("../img/headshots/IMG_3679.JPG") no-repeat center center fixed;
+   background: url("../img/IMG_3679.JPG") no-repeat center center fixed;
    /*background: url("../img/cover.jpg") no-repeat center center fixed;*/ 
   -webkit-background-size: cover;
   -moz-background-size: cover;
